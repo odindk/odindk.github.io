@@ -89,32 +89,39 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Starting make a Discord Bots',
-    company_name: 'Fivem servers',
+    title: 'Supporter',
+    company_name: 'SS-Network.dk',
     icon: coverhunt,
     iconBg: '#333333',
-    date: '2016 - Present',
+    date: '2016 - 2018',
   },
   {
-    title: 'Starting make a Discord Bots/servers',
-    company_name: 'Fivem servers',
+    title: 'Supporter',
+    company_name: 'Din-Server.dk',
     icon: microverse,
     iconBg: '#333333',
-    date: '2017 - Present',
+    date: '2018 - 2019',
   },
   {
-    title: 'Starting make a small websites and setup game server',
-    company_name: 'Esport organizations',
+    title: 'Hjælp Folk med deres vps og hvor de skulle hoste fra',
+    company_name: '',
     icon: kelhel,
     iconBg: '#333333',
-    date: '2020 - Present',
+    date: '2019 - 2023',
   },
   {
-    title: ' Freelance Developer',
-    company_name: 'Freelancer',
+    title: 'CEO OB-Hosting',
+    company_name: 'OBH',
     icon: dcc,
     iconBg: '#333333',
-    date: '2021 - Present',
+    date: '2024 - 2024 ',
+  },
+  {
+    title: 'Sagls supporter',
+    company_name: 'techa-hosting.com',
+    icon: dcc,
+    iconBg: '#333333',
+    date: '2024 -  ',
   },
 ];
 

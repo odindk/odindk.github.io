@@ -46,11 +46,13 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-            and I specialize in creating digital. solutions that enhance online experiences. <br className="sm:block hidden" />
-Setting up Discord servers: Crafting customized server environments to meet your needs.
-Developing custom Discord bots:
-Setting up websites: 
-Setting up Minecraft:
+            Hvis du leder efter den perfekte VPS, spilserver eller dedikeret server, <br className="sm:block hidden" />
+            så er du mere ind velommen til at kontakt mig på Discord @odindk. Jeg  er salgssupporter for Tech Hosting 
+            og er dedikeret til at finde den bedste server til dit specifikke budget. Jeg kan også hjælpe med skræddersy specielle serverløsninger, 
+            som måske ikke engang er listet på hjemmesiden. Så kontakt mig   i en direkte besked for at få den bedste serveroplevelse til dine behov!*
+            
+Desuden kan Odin også hjælpe dig med at starte dit eget hostingfirma, helt gratis, hvis du vælger at sælge servere fra Tech Hosting. 
+Så hvis du drømmer om at starte din egen virksomhed inden for hostingverdenen, så er Odin den rette person til at guide dig igennem processen. 
             </p>
           </div>
           <div
