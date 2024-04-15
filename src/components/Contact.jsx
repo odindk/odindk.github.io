@@ -68,7 +68,7 @@ const Contact = () => {
         className="flex-[0.75] bg-jet p-8 rounded-2xl">
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadTextLight}>Contact.</h3>
-        <p className={styles.sectionSubText}> <a href="https://discord.com/invite/fNc3D2JXdZ"> Clik here to join my Discord Server</a></p>
+        <p className={styles.sectionSubText}> <a href="https://discord.gg/ThvcxDGccG"> Clik here to join my Discord Server</a></p>
         <h3 className={styles.sectionHeadTextLight}>reviews.</h3>
         <iframe src="https://e.widgetbot.io/channels/1174008731126743060/1184933021716066406" height="600" width="800"></iframe>
         
