@@ -34,10 +34,7 @@ export const navLinks = [
     id: 'about',
     title: 'About',
   },
-  {
-    id: 'projects',
-    title: 'Projects',
-  },
+
   {
     id: 'contact',
     title: 'Contact',
@@ -54,7 +51,7 @@ const services = [
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'VPS/Dedikeret Setup',
     icon: backend,
   },
   {
