@@ -37,9 +37,10 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        a skilled Discord bot developer with 9+ years' expertise in Node,js. Specializing in crafting tailored bots, 
-        I enhance server functionality, delivering top-tier, user-friendly code. I'm dedicated to meeting unique client needs, creating advanced, 
-        reliable bots that add value to Discord environments. Let's collaborate to elevate your Discord experience!
+       "Med over 5 års erfaring inden for hosting og support har jeg dedikeret mig til at hjælpe folk med at finde den rette vært til deres serverbehov. 
+       Mit fokus ligger på at give enestående support og vejledning, så mine kunder får den bedste oplevelse.
+        Udover dette kan jeg også hjælpe med at kickstarte dit eget hostingfirma, helt gratis, 
+        hvis du vælger at sælge servere fra Tech Hosting. Lad mig hjælpe med at løfte din hostingoplevelse og sikre, at du får den perfekte serverløsning!"
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
